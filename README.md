@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://fb.com/profile.php?id=100048703333896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minh toan" height="30" width="40" /></a>
 </p>
+<a href="(https://www.linkedin.com/in/minh-to%C3%A0n-64b8b0257/" target="blank"><img align="center" src="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhXY42F5tQxewV1cOe4bQ5Q%3D%3D" alt="minh toan" height="30" width="40" /></a>
+</p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonroy&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonroy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
