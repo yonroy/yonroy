@@ -10,7 +10,7 @@
 
 <p align="left">
 <a href="https://fb.com/profile.php?id=100048703333896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/minh-to%C3%A0n-64b8b0257/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+  <a href="https://www.linkedin.com/in/minhtoan222/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 </p>
 
 
