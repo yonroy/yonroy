@@ -14,20 +14,3 @@
 </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
-
-
